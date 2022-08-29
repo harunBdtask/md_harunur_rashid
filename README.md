@@ -24,7 +24,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ### Installation
 ```
 git clone https://github.com/harunBdtask/md_harunur_rashid.git
-cd l9
+cd md_harunur_rashid
 composer install
 php artisan key:generate
 php artisan serve
